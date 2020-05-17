@@ -14,7 +14,7 @@ state = {
 
     return (
       <div className="App">
-      <h1>Hello</h1>
+      <h1>Hello1</h1>
       <button>Switch Name</button>
 
     <Person  name={this.state.persons[0].name} age={this.state.persons[0].age}/>
